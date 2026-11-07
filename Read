@@ -1,0 +1,123 @@
+# Cybersecurity Awareness Guide
+
+## 1. Introduction
+
+Cybersecurity is simply the practice of protecting computers, networks, systems and personal information against any type of cyber threats, unauthorised access and attacks.
+
+This project was developed as a cybersecurity awareness resource by a Junior Cybersecurity Analyst. Its purpose is to educate computer users about common cyber threats and explain how to protect themselves when using digital technology.
+
+## 2. Objectives of the Project
+
+The objectives and goals are to:
+
+- Explain common cybersecurity threats.
+
+- Promote safe internet browsing.
+
+- Encourage strong password practices.
+
+- Educate users about phishing attacks.
+
+- Explain what to do when a cybersecurity incident occurs.
+
+- Promote responsible use of digital technology.
+
+## 3. Common Cybersecurity Threats
+
+### Phishing
+
+Phishing is basically a cyberattack where criminals send fake emails, messages or websites to trick people into giving out sensitive information, such as passwords and banking details.
+
+### Malware
+
+Malware is bascially a malicious software made to damage systems, steal information or gain unauthorised access to computers.
+
+### Ransomware
+
+Ransomware is simply a type of malware that locks or encrypts files and demands payment before restoring access.
+
+### Social Engineering
+
+Social engineering basically involves trying to manipulate people into revealing confidential information or performing actions that compromise security.
+
+## 4. Password Security
+
+Users should:
+
+- Always create strong passwords which have letters, numbers and symbols.
+
+- You should always avoid using personal information in passwords.
+
+- You must never share passwords with other people.
+
+- You must always use different passwords for different accounts.
+
+- Enable MFA.
+
+- Use a trusted password manager.
+
+## 5. Phishing Prevention
+
+To avoid phishing attacks:
+
+- You must always check carefully the sender's email address.
+
+- You must avoid clicking suspicious links.
+
+- Don't download the unexpected attachments.
+
+- You must check and verify unusual requests for money and information.
+
+- You must always visit websites by typing their official addresses.
+
+- Report suspicious emails to the appropriate IT department.
+
+## 6. Safe Internet Practices
+
+- You must operate systems and all the applications updated.
+
+- You must download a reputable antivirus or endpoint protection software.
+
+- You shouldnt connect to unsecured public Wi-Fi when accessing sensitive accounts.
+
+- You must always back up important information regularly.
+
+- You must always lock computers and mobile devices when you aren't using them.
+
+- You must download software only from trusted sources.
+
+## 7. What to Do During a Cybersecurity Incident
+
+If you suspect an account or device has been compromised:
+
+1. You must report the incident immediately to the IT department or security team.
+
+2. You must stop interacting with suspicious messages or links.
+
+3. You must disconnect an affected device from the network if you're told to do so by the incident response team.
+
+4. You must change the compromised passwords using a trusted device.
+
+5. You must enable MFA.
+
+6. You must keep relevant evidence safe, including suspicious emails and screenshots.
+
+7. You must carefully follow the organisation's incident response procedures.
+
+## 8. Conclusion
+
+Cybersecurity is basically each and everyone's responsibility. By using strong passwords, recognising phishing attacks, updating devices and reporting suspicious activities, individuals can reduce cybersecurity risks and protect valuable information.
+
+## 9. Project Information
+
+**Project:** Cybersecurity Awareness Guide
+
+**Role:** Junior Cybersecurity Analyst
+
+**Platform:** GitHub
+
+**Purpose and Goal:** Cybersecurity education and awareness.
+
+**Author:** Tinashe Tshitswana
+
+**Date:** 8 November 2026
